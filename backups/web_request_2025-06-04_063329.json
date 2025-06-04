@@ -1,0 +1,77 @@
+[
+    {
+        "ip": "103.115.253.23",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-04 06:33:29",
+        "request": {
+            "text": "তুমি কি জানো পৃথিবী শুরু হয়েছে দেখুন তো আপনার জামাই নিয়ে মহাব্যস্ত আমার কাছে মনে হয় না তবে আমার মনে হলো না সে আমার সাথে কথা বলতে পারে নি আমি কি করব বুঝে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "tumi ki jano prithibii shuru hyechhe dekhun to aapnar jamai niye mhabyast aamar kachhe mne hy na tbe aamar mne hlo na se aamar sathe ktha blte pare ni aami ki krb bujhe",
+            "charactersConverted": 155,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.23",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-04 06:33:20",
+        "request": {
+            "text": "আমি বললাম তুমি কি জানো পৃথিবী শুরু হয়েছে দেখুন তো আপনার জামাই নিয়ে মহাব্যস্ত আমার কাছে মনে হয় না তবে আমার মনে হয়",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aami bllam tumi ki jano prithibii shuru hyechhe dekhun to aapnar jamai niye mhabyast aamar kachhe mne hy na tbe aamar mne hy",
+            "charactersConverted": 116,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.23",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-04 06:33:20",
+        "request": {
+            "text": "তুমি কি জানো পৃথিবী শুরু হয়েছে দেখুন তো আপনার জামাই নিয়ে মহাব্যস্ত আমার কাছে মনে হয় না তবে আমার মনে হলো না সে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "tumi ki jano prithibii shuru hyechhe dekhun to aapnar jamai niye mhabyast aamar kachhe mne hy na tbe aamar mne hlo na se",
+            "charactersConverted": 112,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.23",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-04 06:31:56",
+        "request": {
+            "text": "আমি বললাম তুমি কি জানো পৃথিবী শুরু হয়েছে দেখুন তো আপনার জামাই নিয়ে মহাব্যস্ত আমার কাছে মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে আমার মনে হয় না তবে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aami bllam tumi ki jano prithibii shuru hyechhe dekhun to aapnar jamai niye mhabyast aamar kachhe mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe aamar mne hy na tbe",
+            "charactersConverted": 403,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.23",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-04 06:31:19",
+        "request": {
+            "text": "ই",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "i",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    }
+]
