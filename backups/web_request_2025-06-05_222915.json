@@ -1,0 +1,212 @@
+[
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:29:15",
+        "request": {
+            "text": "য",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:23:36",
+        "request": {
+            "text": "য করে নিন আপনার বর্তমান মানসিক",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j kre nin aapnar brtman mansik",
+            "charactersConverted": 30,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:23:35",
+        "request": {
+            "text": "য করে নিন আপনার বর্তমান মানসিক",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j kre nin aapnar brtman mansik",
+            "charactersConverted": 30,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:23:32",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi",
+            "charactersConverted": 3,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:16:19",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi",
+            "charactersConverted": 3,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:11:01",
+        "request": {
+            "text": "থাইল্যান্ডে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "thailyaande",
+            "charactersConverted": 11,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:10:58",
+        "request": {
+            "text": "থ",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "th",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:06:35",
+        "request": {
+            "text": "যদি আপনি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi aapni",
+            "charactersConverted": 8,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:05:37",
+        "request": {
+            "text": "তবে কি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "tbe ki",
+            "charactersConverted": 6,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:05:37",
+        "request": {
+            "text": "তবে কি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "tbe ki",
+            "charactersConverted": 6,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:05:23",
+        "request": {
+            "text": "যদি না হয় সে ক্ষেত্রে এ সময় তারা যেন সোনায় হাত রেখে বলল বাড়িতে তুই আর আমি আমার বোনের হত্যাকারীর বিচারের ভার দেবো না আমার কি মেরুদন্ড নেই আমার মা কি আমার মুখে তুলে নাস্তা খেতে বসলো তারপর কোমর থেকে টেনে নির্জনে একাকি গুলশান বনানী কবরস্থানে সমাহিত হলেন তিনি এ বিষয়ে বিস্তারিত তথ্য ও সেবা চালু করবে বলে তিনি মন্তব্য নেই এখনও আমার ভাগ্যে কী কী বিষয় হলো উনি বারবার ফিরে যাবো আমি আমার রুমে গিয়ে দেখি সবাই মিলে গোসল করে বের হয় আর এ কারণেই কমিশন এই ক্ষমতা",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi na hy se kshetre e smy tara jen sonay hat rekhe bll baD়ite tui aar aami aamar boner htyaakariir bicharer bhar debo na aamar ki merudnd nei aamar ma ki aamar mukhe tule nasta khete bslo tarpr komr theke Tene nirjne ekaki gulshan bnanii kbrsthane smahit hlen tini e biShye bistarit tthya o seba chalu krbe ble tini mntbya nei ekhno aamar bhagyae kii kii biShy hlo uni barbar phire jabo aami aamar rume giye dekhi sbai mile gosl kre ber hy aar e karNei kmishn ei kshmta",
+            "charactersConverted": 454,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:05:08",
+        "request": {
+            "text": "যদি না হয় সে ক্ষেত্রে এ সময় তারা যেন সোনায় হাত রেখে বলল বাড়িতে তুই আর আমি আমার বোনের হত্যাকারীর বিচারের ভার দেবো না আমার কি মেরুদন্ড নেই আমার মা কি আমার মুখে তুলে নাস্তা খেতে বসলো তারপর কোমর থেকে টেনে নির্জনে একাকি গুলশান বনানী কবরস্থানে সমাহিত হলেন তিনি এ বিষয়ে বিস্তারিত তথ্য ও সেবা চালু করবে বলে তিনি মন্তব্য নেই এখনও আমার ভাগ্যে কী কী বিষয় হলো উনি বারবার ফিরে যাবো আমি আমার রুমে গিয়ে দেখি সবাই মিলে গোসল করে বের হয় আর এ কারণেই",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi na hy se kshetre e smy tara jen sonay hat rekhe bll baD়ite tui aar aami aamar boner htyaakariir bicharer bhar debo na aamar ki merudnd nei aamar ma ki aamar mukhe tule nasta khete bslo tarpr komr theke Tene nirjne ekaki gulshan bnanii kbrsthane smahit hlen tini e biShye bistarit tthya o seba chalu krbe ble tini mntbya nei ekhno aamar bhagyae kii kii biShy hlo uni barbar phire jabo aami aamar rume giye dekhi sbai mile gosl kre ber hy aar e karNei",
+            "charactersConverted": 438,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:04:53",
+        "request": {
+            "text": "যদি না হয় সে ক্ষেত্রে এ সময় তারা যেন সোনায় হাত রেখে বলল বাড়িতে তুই আর আমি আমার বোনের হত্যাকারীর বিচারের ভার দেবো না আমার কি মেরুদন্ড নেই আমার মা কি আমার মুখে তুলে নাস্তা খেতে বসলো তারপর কোমর থেকে টেনে নির্জনে একাকি গুলশান বনানী কবরস্থানে সমাহিত হলেন তিনি এ বিষয়ে বিস্তারিত তথ্য ও সেবা চালু করবে বলে তিনি মন্তব্য নেই এখনও আমার ভাগ্যে কী কী বিষয় হলো উনি বারবার ফিরে যাবো আমি আমার রুমে গিয়ে দেখি সবাই মিলে গোসল করে বের হয় আর",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi na hy se kshetre e smy tara jen sonay hat rekhe bll baD়ite tui aar aami aamar boner htyaakariir bicharer bhar debo na aamar ki merudnd nei aamar ma ki aamar mukhe tule nasta khete bslo tarpr komr theke Tene nirjne ekaki gulshan bnanii kbrsthane smahit hlen tini e biShye bistarit tthya o seba chalu krbe ble tini mntbya nei ekhno aamar bhagyae kii kii biShy hlo uni barbar phire jabo aami aamar rume giye dekhi sbai mile gosl kre ber hy aar",
+            "charactersConverted": 429,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:04:39",
+        "request": {
+            "text": "যদি না হয় সে ক্ষেত্রে এ সময় তারা যেন সোনায় হাত রেখে বলল বাড়িতে তুই আর আমি আমার বোনের হত্যাকারীর বিচারের ভার দেবো না",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi na hy se kshetre e smy tara jen sonay hat rekhe bll baD়ite tui aar aami aamar boner htyaakariir bicharer bhar debo na",
+            "charactersConverted": 119,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    }
+]
