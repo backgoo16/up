@@ -1,0 +1,114 @@
+[
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 00:14:06",
+        "request": {
+            "text": "<script>alert('XSS');<\/script>",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 00:14:06",
+        "request": {
+            "text": "<script>alert('XSS');<\/script>",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 00:14:01",
+        "request": {
+            "text": "য",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 00:13:52",
+        "request": {
+            "text": "<script>alert('XSS');<\/script>",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 23:45:21",
+        "request": {
+            "text": "Welcome <script>alert(1)<\/script>",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:31:02",
+        "request": {
+            "text": "য না",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j na",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:31:02",
+        "request": {
+            "text": "য না",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j na",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 22:30:51",
+        "request": {
+            "text": "য",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "j",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    }
+]
