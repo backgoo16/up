@@ -1,0 +1,90 @@
+[
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 18:29:35",
+        "request": {
+            "text": "আমার কাছে‌",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 18:29:29",
+        "request": {
+            "text": "আমার কাছে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aamar kachhe",
+            "charactersConverted": 9,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 18:29:27",
+        "request": {
+            "text": "আমার",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aamar",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 17:34:01",
+        "request": {
+            "text": "কি হইছে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "ki hichhe",
+            "charactersConverted": 7,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 17:33:13",
+        "request": {
+            "text": "bal pic upload korle problem hoy baler",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "বাল পিc ুপ্লোাদ কোড়লে প্রোব্লেম ঃোয় বালেড়",
+            "charactersConverted": 38,
+            "direction": "enToBn"
+        },
+        "http_code": 200
+    },
+    {
+        "ip": "103.115.253.22",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-05 17:33:12",
+        "request": {
+            "text": "bal pic upload korle problem hoy baler",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "bal pic upload korle problem hoy baler",
+            "charactersConverted": 38,
+            "direction": "bnToEn"
+        },
+        "http_code": 200
+    }
+]
