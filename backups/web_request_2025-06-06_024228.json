@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "138.201.127.18",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 02:42:28",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi",
+            "charactersConverted": 3,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 02:41:05",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jdi",
+            "charactersConverted": 3,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 02:29:19",
+        "request": {
+            "text": "lekha kotha theke shikhli",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "লেখা কোথা থেকে ষিখলি",
+            "charactersConverted": 25,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 02:29:14",
+        "request": {
+            "text": "lekha kotha theke shikhli",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "লেখা কোথা থেকে ষিখলি",
+            "charactersConverted": 25,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 14:19:51",
+        "request": {
+            "text": "ইসলাম",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "islam",
+            "charactersConverted": 5,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 14:19:50",
+        "request": {
+            "text": "ই",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "i",
+            "charactersConverted": 1,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    }
+]
