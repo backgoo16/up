@@ -1,0 +1,102 @@
+[
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-07 04:35:37",
+        "request": {
+            "text": "ড",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 403,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-07 04:21:08",
+        "request": {
+            "text": "যদি আপনি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 403,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-07 04:21:07",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 403,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-07 04:18:57",
+        "request": {
+            "text": "যদি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 403,
+        "vpn_detected": false
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-07 04:18:52",
+        "request": {
+            "text": "যদি ষ্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 403,
+        "vpn_detected": false
+    },
+    {
+        "ip": "54.36.102.93",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 23:13:56",
+        "request": {
+            "text": "লেখক বলেছেন‌",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "error": "An error occurred. Please try again later."
+        },
+        "http_code": 400,
+        "vpn_detected": false
+    },
+    {
+        "ip": "54.36.102.93",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-06 23:13:39",
+        "request": {
+            "text": "লেখক বলেছেন",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "lekhk blechhen",
+            "charactersConverted": 11,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_detected": false
+    }
+]
