@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.15.212.145",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 23:10:00",
+        "request": {
+            "text": "ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "bhalo",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.15.212.145",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 23:09:55",
+        "request": {
+            "text": "ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "bhalo",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.15.212.144",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 18:23:52",
+        "request": {
+            "text": "win",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "wিঁ",
+            "charactersConverted": 3,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.15.212.144",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 18:23:38",
+        "request": {
+            "text": "Portugal",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "পোর্তুগাল",
+            "charactersConverted": 8,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.15.212.144",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 18:23:22",
+        "request": {
+            "text": "Portugal win mother",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "পোর্তুগাল wিঁ মোথেড়",
+            "charactersConverted": 19,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.15.212.144",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-09 18:23:21",
+        "request": {
+            "text": "Portugal win mother",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Portugal win mother",
+            "charactersConverted": 19,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
