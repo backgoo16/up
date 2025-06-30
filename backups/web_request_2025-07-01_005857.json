@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "103.25.251.205",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-01 00:58:57",
+        "request": {
+            "text": "Sonibar a ki disos ato jaigai kamnne.gurbi 1 jaiga koma",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "সোঁিবাড় া কি দিসোস আটো যািগাি কাম্নঁে.গুর্বি ২ যািগা কমা",
+            "charactersConverted": 55,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.25.251.205",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-01 00:39:47",
+        "request": {
+            "text": "লিস্ট দে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "lisT de",
+            "charactersConverted": 8,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-29 20:50:33",
+        "request": {
+            "text": "Akhon dekhi kamla ra English bole bah translater user",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "াখোঁ দএকঃি কাম্লা ড়া েংলিষ বলে বাঃ ট্রান্সলআটেড় ইউজার",
+            "charactersConverted": 53,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-29 20:50:27",
+        "request": {
+            "text": "Akhon dekhi kamla ra English bole bah translater user",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Akhon dekhi kamla ra English bole bah translater user",
+            "charactersConverted": 53,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.253.20",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-06-29 20:48:42",
+        "request": {
+            "text": "Akhon",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "াখোঁ",
+            "charactersConverted": 5,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
