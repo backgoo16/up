@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:14:01",
+        "request": {
+            "text": "কারেন্ট গেছিল গা",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "karent gechhil ga",
+            "charactersConverted": 16,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:13:55",
+        "request": {
+            "text": "কারেন্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "karent",
+            "charactersConverted": 7,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:13:53",
+        "request": {
+            "text": "কারেন্ট চলে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "karent chole",
+            "charactersConverted": 11,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:13:44",
+        "request": {
+            "text": "কারেন্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "karent",
+            "charactersConverted": 7,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:13:42",
+        "request": {
+            "text": "কা",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "ka",
+            "charactersConverted": 2,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:13:06",
+        "request": {
+            "text": "আলহামদুলিল্লাহ পড়াশোনা ভালোই চলছে। আপনি কেমন আছেন",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aalhamdulillah pRashona valoi chlchhe। aapni kemn aachhen",
+            "charactersConverted": 49,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
