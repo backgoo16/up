@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:42:14",
+        "request": {
+            "text": "কি হয়ছে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "ki hychhe",
+            "charactersConverted": 8,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:36:58",
+        "request": {
+            "text": "সবাই ভালোই",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "shobai valoi",
+            "charactersConverted": 10,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:36:54",
+        "request": {
+            "text": "সবাই",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "shobai",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:36:53",
+        "request": {
+            "text": "সব",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "shob",
+            "charactersConverted": 2,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:35:08",
+        "request": {
+            "text": "ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "valo",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:35:06",
+        "request": {
+            "text": "ভালো আপ",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "valo aap",
+            "charactersConverted": 7,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
