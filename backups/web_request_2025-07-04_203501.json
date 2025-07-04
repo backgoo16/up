@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:35:01",
+        "request": {
+            "text": "ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "valo",
+            "charactersConverted": 4,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:34:05",
+        "request": {
+            "text": "ওয়ালাইকুম আসসালাম",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "oyalaikum aassalam",
+            "charactersConverted": 18,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-03 21:18:13",
+        "request": {
+            "text": "জোবরাজ ভালো আসো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jobraj valo aso",
+            "charactersConverted": 15,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-03 21:18:09",
+        "request": {
+            "text": "জোবরাজ ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jobraj valo",
+            "charactersConverted": 11,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-03 21:18:05",
+        "request": {
+            "text": "জোবরাজ ভালো আ",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jobraj valo aa",
+            "charactersConverted": 13,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-03 21:18:03",
+        "request": {
+            "text": "জোবরাজ ভালো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jobraj valo",
+            "charactersConverted": 11,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
