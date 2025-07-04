@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:12:50",
+        "request": {
+            "text": "আলহামদুলিল্লাহ, পড়াশোনা ভালোই চলছে। আপনি কেমন আছেন",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "aalhamdulillah, pRashona valoi chlchhe। aapni kemn aachhen",
+            "charactersConverted": 50,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.112",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:09:35",
+        "request": {
+            "text": "ovosta",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "োvোস্টা",
+            "charactersConverted": 6,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.112",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:09:30",
+        "request": {
+            "text": "Apnar pora sonar ki ovosta",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "াপ্নাড় পড়া সোঁাড় কি োvোস্টা",
+            "charactersConverted": 26,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.112",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 23:09:20",
+        "request": {
+            "text": "Apnar pora sonar ki ovosta",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "াপ্নাড় পড়া সোঁাড় কি োvোস্টা",
+            "charactersConverted": 26,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:45:32",
+        "request": {
+            "text": "Apnar pora sonar ki ovosta",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "াপ্নাড় পড়া সোঁাড় কি োvোস্টা",
+            "charactersConverted": 26,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.113",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/137.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-04 20:42:42",
+        "request": {
+            "text": "Kisu na vai",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "কিসু ঁা vাি",
+            "charactersConverted": 11,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
