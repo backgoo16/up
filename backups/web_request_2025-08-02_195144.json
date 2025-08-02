@@ -1,0 +1,82 @@
+[
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 19:51:43",
+        "request": {
+            "text": "tomar ma re chud ga aamar ki",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "ৎোমাড় মা ড়ে চুদ গা আমাড় কি",
+            "charactersConverted": 28,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 19:51:26",
+        "request": {
+            "text": "তোমার মা রে চুদ গা আমার কি",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "tomar ma re chud ga aamar ki",
+            "charactersConverted": 26,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.253.18",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-29 19:39:07",
+        "request": {
+            "text": "jannatir meye bachcha hyechhe",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "যান্নআটিড় মেয়ে বাচ্চা ঃয়েচ্ছে",
+            "charactersConverted": 29,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.253.18",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/138.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-29 19:37:35",
+        "request": {
+            "text": "জান্নাতির মেয়ে বাচ্চা হয়েছে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "jannatir meye bachcha hyechhe",
+            "charactersConverted": 29,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.114",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-07-28 17:46:51",
+        "request": {
+            "text": "ajke ghurte jaba ki",
+            "direction": "enToBn"
+        },
+        "response": {
+            "output": "আজকে ঘুর্তে যাবা কি",
+            "charactersConverted": 19,
+            "direction": "enToBn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
