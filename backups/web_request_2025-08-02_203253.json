@@ -1,0 +1,98 @@
+[
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:52",
+        "request": {
+            "text": "Tor করগা আমারে  কোছ",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor korga aamare  kochh",
+            "charactersConverted": 19,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:50",
+        "request": {
+            "text": "Tor করগা আমারে  কো",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor korga aamare  ko",
+            "charactersConverted": 18,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:48",
+        "request": {
+            "text": "Tor করগা আমারে",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor korga aamare",
+            "charactersConverted": 14,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:43",
+        "request": {
+            "text": "Tor করগা আমারে কষ্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor korga aamare kShT",
+            "charactersConverted": 19,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:42",
+        "request": {
+            "text": "Tor কর আমারে কষ্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor kor aamare kShT",
+            "charactersConverted": 17,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    },
+    {
+        "ip": "103.115.252.117",
+        "user_agent": "Mozilla\/5.0 (Linux; Android 13; Pixel 7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/116.0.0.0 Mobile Safari\/537.36",
+        "timestamp": "2025-08-02 20:32:38",
+        "request": {
+            "text": "Tor কর  আমারে কষ্ট",
+            "direction": "bnToEn"
+        },
+        "response": {
+            "output": "Tor kor  aamare kShT",
+            "charactersConverted": 18,
+            "direction": "bnToEn"
+        },
+        "http_code": 200,
+        "vpn_check": "not detected"
+    }
+]
